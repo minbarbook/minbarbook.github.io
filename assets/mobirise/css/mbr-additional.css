@@ -1258,8 +1258,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rYHgmRRHuB {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   position: relative;
   background-image: url("../../../assets/images/24463854-670x450.jpg");
 }
@@ -1315,6 +1315,12 @@ section.lazy-placeholder:after {
   .cid-rYHgmRRHuB .mbr-figure {
     padding-left: 4rem;
   }
+}
+.cid-rYHgmRRHuB H4 {
+  color: #149dcc;
+}
+.cid-rYHgmRRHuB .panel-text {
+  color: #232323;
 }
 .cid-rYBL6CTTZn {
   padding-top: 0px;
