@@ -1954,6 +1954,50 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-s2X1xinkOt {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/-2018-1080x608.jpg");
+}
+.cid-s2X1xinkOt .card-box {
+  padding: 1rem 2rem 2rem;
+}
+.cid-s2X1xinkOt h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s2X1xinkOt p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s2X1xinkOt .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s2X1xinkOt .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s2X1xinkOt .mbr-text {
+  color: #767676;
+}
+.cid-s2X1xinkOt .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s2X1xinkOt .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s2X1xinkOt H2 {
+  color: #149dcc;
+}
+.cid-s2X1xinkOt .mbr-text,
+.cid-s2X1xinkOt .mbr-section-btn {
+  color: #074b61;
+  text-align: center;
+}
 .cid-rYHfVQ3MPd {
   padding-top: 0px;
   padding-bottom: 0px;
